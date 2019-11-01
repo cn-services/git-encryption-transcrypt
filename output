@@ -1,0 +1,17 @@
+Encrypt using which cipher? [aes-256-cbc] 
+Generate a random password? [Y/n] 
+
+Repository metadata:
+
+  GIT_WORK_TREE:  /Users/jnonino/Code/jnonino/cn/cn-services/git-encryption-transcrypt
+  GIT_DIR:        /Users/jnonino/Code/jnonino/cn/cn-services/git-encryption-transcrypt/.git
+  GIT_ATTRIBUTES: /Users/jnonino/Code/jnonino/cn/cn-services/git-encryption-transcrypt/.gitattributes
+
+The following configuration will be saved:
+
+  CIPHER:   aes-256-cbc
+  PASSWORD: F+XroMTRNftrHzqZsUICI/j26e35+tWo3ewdh4fE
+
+Does this look correct? [Y/n] 
+
+The repository has been successfully configured by transcrypt.
